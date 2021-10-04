@@ -25,7 +25,7 @@ Upon completing the lab, you will know how to:
 ## Instructions:
 
 Step 1. Please click on the link below to download the instructions to your machine. <br>
-[Instructions](https://github.com/bleonardb3/ML_POT_07-08-2021/raw/main/Lab-5/Notebook%20Lab%20v07-08-2021.pdf).
+[Instructions](https://github.com/bleonardb3/ML_POT_10-07-2021/raw/main/Lab-5/Notebook%20Lab%20v10-07-2021.pdf).
 
 
 
