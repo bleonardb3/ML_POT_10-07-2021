@@ -17,7 +17,6 @@ Upon completing the lab, you will know how to:
 1. Prepare data for training and evaluation.
 1. Create, train, and evaluate an XGBoost model.  
 1. Visualize the importance of features that were used to train the model.
-1. Use cross validation to select optimal model hyperparameters based on a parameter grid
 1. Persist the best model in Watson Machine Learning repository using the Python client library.
 1. Deploy the model for online scoring using the Python client library
 
